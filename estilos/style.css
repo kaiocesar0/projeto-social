@@ -24,11 +24,11 @@ main {
 
 section#telefone {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 49%;
+    left: 49%;
     transform: translate(-50%, -50%);
 
-    margin: 0.2px;
+    margin: 1.3px;
     height: 625px;
     width: 310px;
     background: url(../imagens/frame-iphone.png) no-repeat;
