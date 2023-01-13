@@ -41,6 +41,8 @@ iframe#tela {
     height: 473px
 }
 section#redes img{
+    position: relative;
+    top: 20vh;
     width: 60px;
     margin: 8px;
     border-radius: 50%;
